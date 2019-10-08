@@ -1,5 +1,3 @@
-def badge_maker(names)
-  names.each{ |name|
+def badge_maker(name)
     "Hello, my name is #{name}."
-  }
 end
