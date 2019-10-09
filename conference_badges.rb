@@ -35,5 +35,5 @@ def printer(attendees)
   room_assignments.each { |room_assignment|
     puts room_assignment
   }
-  
+
 end
