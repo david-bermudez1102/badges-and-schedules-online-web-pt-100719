@@ -21,4 +21,5 @@ def assign_rooms(attendees)
     room += 1
   }
 
+room_assignments
 end
